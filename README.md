@@ -1,4 +1,4 @@
-<img align="center" src="https://64.media.tumblr.com/ce7128cd7dbd7ff683100aa779ebe01e/f1aef7a98e7ab690-8c/s1280x1920/66904d6e35a8d521ee30175592b9eb21b0aad028.jpg">
+<img align="center" src="https://64.media.tumblr.com/ce7128cd7dbd7ff683100aa779ebe01e/f1aef7a98e7ab690-8c/s1280x1920/66904d6e35a8d521ee30175592b9eb21b0aad028.jpg" width="auto" height="200">
 
 # 🌸 Honiism <3
 
@@ -25,4 +25,4 @@
 > - 🌸 Pronouns: they/them.
 > - 🌼 Fun fact: I yawn a lot.
 
-<img align="center" src="https://i.pinimg.com/originals/01/7e/7c/017e7c700d7e4a6d98196a602e3f5ac8.png">
+<img align="center" src="https://i.pinimg.com/originals/01/7e/7c/017e7c700d7e4a6d98196a602e3f5ac8.png" width="auto" height="200">
