@@ -33,8 +33,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
 
 # 🥛 More about me
+### A) Pronouns, etc:🎀
+> - 🌙 Name: Honey
 > - 🌸 Pronouns: they/them.
-> - 🌼 Fun fact: I yawn a lot.
+> - 🌼 Age: 14
+
+### B) Fun facts: 🌊
+> - 🌺 I yawn a lot.
+> - 🥛 Love the letter m.
+> - 🥥 I have synesthesia.
+> - 🌸 I'm an INFJ
+
+![image](https://user-images.githubusercontent.com/91908168/153526622-ae65f3b7-08a2-4fba-8061-a64b6a927beb.png)
+
+<hr>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/89/60/89/896089e6dfbdd8a0ba16d37a705e4c4f.gif" height="auto" width="600">
