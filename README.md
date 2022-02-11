@@ -2,6 +2,8 @@
   <img src="https://pa1.narvii.com/6293/89dce6d5483f5ca19da985b73d1cf752c8f3a8f0_hq.gif" height="auto" width="600">
 </p>
 
+<hr>
+
 # 🌸 Honiism <3
 <img align="right" src="https://i.pinimg.com/originals/a9/f3/96/a9f3962a657aee393b57692f37d8d347.gif" height="auto" width="200">
 
