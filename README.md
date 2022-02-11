@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.narvii.com/6293/89dce6d5483f5ca19da985b73d1cf752c8f3a8f0_hq.gif" height="auto" width="600">
+  <img src="https://pa1.narvii.com/6293/89dce6d5483f5ca19da985b73d1cf752c8f3a8f0_hq.gif" height="auto" width="500">
 </p>
 
 <hr>
@@ -51,5 +51,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/89/60/89/896089e6dfbdd8a0ba16d37a705e4c4f.gif" height="auto" width="600">
+  <img src="https://i.pinimg.com/originals/89/60/89/896089e6dfbdd8a0ba16d37a705e4c4f.gif" height="auto" width="500">
 </p>
