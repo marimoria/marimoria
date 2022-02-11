@@ -3,8 +3,8 @@
 # 🌸 Honiism <3
 
 **Honiism | Honey**
-- 🌊 A beginner programmer just trying to have fun while also learning variety of different things along the way! 🎀
-- 🌙 @honiism on IG, honiism@gmail.com, honiism#8022 on discord.
+> - 🌊 A beginner programmer just trying to have fun while also learning variety of different things along the way! 🎀
+> - 🌙 @honiism on IG, honiism@gmail.com, honiism#8022 on discord.
 
 # 🍰 Projects I'm working on:
 > - 🍋 Lemi the discord bot.
