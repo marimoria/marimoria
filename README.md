@@ -46,7 +46,7 @@
 > - 🌺 I yawn a lot.
 > - 🥛 Love the letter m.
 > - 🥥 I have synesthesia.
-> - 🌸 I'm an INFJ.
+> - 🌸 I'm an INFJ-T.
 
 <hr>
 
