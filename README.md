@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.narvii.com/6293/89dce6d5483f5ca19da985b73d1cf752c8f3a8f0_hq.gif" height="auto" width="500">
+  <img src="https://pa1.narvii.com/6293/89dce6d5483f5ca19da985b73d1cf752c8f3a8f0_hq.gif" height="auto" width="600">
 </p>
 
 # 🌸 Honiism <3
@@ -14,23 +14,28 @@
 > - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
 > - 🌙 @honiism on IG, honiism@gmail.com, honiism#8022 on discord.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/879297677819535381)](https://discord.com/users/879297677819535381)
+<a href="https://discord.gg/7fBW89kEm9"> <img src="https://lanyard.cnrad.dev/api/879297677819535381?idleMessage=Probably staring at the wall." width="350"/> </a>
 
 # 🌷 My current progress
 <img align="right" src="https://i.pinimg.com/originals/0e/bf/2d/0ebf2d51966d4b872c2d700167267143.gif" height="auto" width="200">
 
-### A) I'm currently learning:
+### A) I'm currently learning: 🌊
 > - 🥥 Java.
 > - 🌻 HTML-CSS.
 > - 🩰 Javascript.
 
-### B) I'm looking forward to learning:
-> -🌺 Website development.
+### B) I'm looking forward to learning: 🥥
+> - 🌺 Website development.
 > - 🥛 3D modeling.
 > - 🎀 Android app development.
+
+### C) Stats: 🌸
+<img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
 
 # 🥛 More about me
 > - 🌸 Pronouns: they/them.
 > - 🌼 Fun fact: I yawn a lot.
 
-<img style="object-fit:contain;" src="https://i.pinimg.com/originals/89/60/89/896089e6dfbdd8a0ba16d37a705e4c4f.gif"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/89/60/89/896089e6dfbdd8a0ba16d37a705e4c4f.gif" height="auto" width="600">
+</p>
