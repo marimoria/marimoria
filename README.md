@@ -33,6 +33,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
 
 # 🥛 More about me
+<img align="right" src="https://i.pinimg.com/originals/f1/8b/ba/f18bba1e12075c9342af55df45fb3489.gif" height="auto" width="200">
+
 ### A) Pronouns, etc:🎀
 > - 🌙 Name: Honey
 > - 🌸 Pronouns: they/them.
