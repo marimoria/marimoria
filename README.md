@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/-honiism@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honiism@gmail.com)
 
 **Honiism | Honey**
-> - 🌊 A beginner programmer just trying to have fun while also learning different things along the way! 🎀
+> - 🌊 A beginner programmer just trying to have fun! 🎀
 > - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
 > - 🌙 @honiism on IG, honiism@gmail.com, honiism#8022 on discord.
 
