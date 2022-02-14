@@ -37,12 +37,12 @@
 # 🥛 More about me
 <img align="right" src="https://i.pinimg.com/originals/f1/8b/ba/f18bba1e12075c9342af55df45fb3489.gif" height="auto" width="200">
 
-### A) Pronouns, etc:🎀
+### A) Pronouns, etc: 🎀
 > - 🌙 Name: Honey.
 > - 🌸 Pronouns: they/them.
 > - 🌼 Age: 14.
 
-### B) Fun facts: 🌊
+### B) Fun facts:🍰
 > - 🌺 I yawn a lot.
 > - 🥛 Love the letter m.
 > - 🥥 I have synesthesia.
