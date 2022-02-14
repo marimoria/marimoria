@@ -7,11 +7,11 @@
 </p>
 
 # 🌸 Honiism <3
-<img align="right" src="https://i.pinimg.com/originals/a9/f3/96/a9f3962a657aee393b57692f37d8d347.gif" height="auto" width="200">
-
 [![Github](https://img.shields.io/badge/-honiism-black?style=flat&logo=Github&logoColor=white)](https://github.com/honiism)
 [![Instagram](https://img.shields.io/badge/-honiism-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/honiism)
 [![Gmail](https://img.shields.io/badge/-honiism@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honiism@gmail.com)
+
+<img align="right" src="https://i.pinimg.com/originals/a9/f3/96/a9f3962a657aee393b57692f37d8d347.gif" height="auto" width="200">
 
 **Honiism | Honey**
 > - 🌊 A beginner programmer just trying to have fun! 🎀
