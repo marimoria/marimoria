@@ -16,7 +16,6 @@
 **Honiism | Honey**
 > - 🌊 A beginner programmer just trying to have fun! 🎀
 > - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
-> - 🌙 @honiism on IG, honiism@gmail.com, honiism#8022 on discord.
 
 <a href="https://discord.gg/7fBW89kEm9"> <img src="https://lanyard.cnrad.dev/api/879297677819535381?idleMessage=Probably staring at the wall." width="350"/> </a>
 
