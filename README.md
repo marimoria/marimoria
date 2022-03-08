@@ -46,7 +46,6 @@
 ### B) Fun facts:🍰
 > - 🌺 I yawn a lot.
 > - 🥛 Love the letter m.
-> - 🥥 I have synesthesia.
 > - 🌸 I'm an INFJ-T.
 
 <p align="center">
