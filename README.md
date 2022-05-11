@@ -17,8 +17,6 @@
 > - 🌊 A beginner programmer just trying to have fun! 🎀
 > - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
 
-<a href="https://discord.gg/7fBW89kEm9"> <img src="https://lanyard.cnrad.dev/api/879297677819535381?idleMessage=Probably staring at the wall." width="350"/> </a>
-
 # 🌷 My current progress
 <img align="right" src="https://i.pinimg.com/originals/0e/bf/2d/0ebf2d51966d4b872c2d700167267143.gif" height="auto" width="200">
 
@@ -30,7 +28,7 @@
 ### B) I'm looking forward to learning: 🥥
 > - 🌺 Website development.
 > - 🥛 3D modeling.
-> - 🎀 Android app development.
+> - 🎀 Game development.
 
 ### C) Stats: 🌸
 <img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
