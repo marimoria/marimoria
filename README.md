@@ -14,20 +14,15 @@
 <img align="right" src="https://i.pinimg.com/originals/a9/f3/96/a9f3962a657aee393b57692f37d8d347.gif" height="auto" width="200">
 
 **Honiism | Honey**
-> - 🌊 A beginner programmer just trying to have fun! 🎀
+> - 🌊 A student programmer just trying to have fun! 🎀
 > - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
 
 # 🌷 My current progress
 <img align="right" src="https://i.pinimg.com/originals/0e/bf/2d/0ebf2d51966d4b872c2d700167267143.gif" height="auto" width="200">
 
-### A) I'm currently learning: 🌊
-> - 🥥 Java.
-> - 🌻 HTML-CSS.
-> - 🩰 Javascript.
-
-### B) I'm looking forward to learning: 🥥
+### A) I'm looking forward to learning: 🥥
 > - 🌺 Website development.
-> - 🥛 3D modeling.
+> - 🥛 Web apps development.
 > - 🎀 Game development.
 
 ### C) Stats: 🌸
