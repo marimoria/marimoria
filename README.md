@@ -34,7 +34,7 @@
 ### A) Pronouns, etc: 🎀
 > - 🌙 Name: Honey.
 > - 🌸 Pronouns: they/them.
-> - 🌼 Age: 14.
+> - 🌼 Age: 15.
 
 ### B) Fun facts:🍰
 > - 🌺 I yawn a lot.
