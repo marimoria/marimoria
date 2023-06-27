@@ -14,7 +14,7 @@
 <img align="right" src="https://i.pinimg.com/originals/a9/f3/96/a9f3962a657aee393b57692f37d8d347.gif" height="auto" width="200">
 
 **Honiism | Honey**
-> - 🌊 A student programmer just trying to have fun! 🎀
+> - 🌊 A student and a beginner programmer just trying to have fun! 🎀
 > - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
 
 # 🌷 My current progress
