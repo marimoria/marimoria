@@ -28,19 +28,6 @@
 ### C) Stats: 🌸
 <img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
 
-# 🥛 More about me
-<img align="right" src="https://i.pinimg.com/originals/f1/8b/ba/f18bba1e12075c9342af55df45fb3489.gif" height="auto" width="200">
-
-### A) Pronouns, etc: 🎀
-> - 🌙 Name: Honey.
-> - 🌸 Pronouns: they/them.
-> - 🌼 Age: 15.
-
-### B) Fun facts:🍰
-> - 🌺 I yawn a lot.
-> - 🥛 Love the letter m.
-> - 🌸 I'm an INFJ-T.
-
 <p align="center">
   <img src="https://github.com/honiism/lemi-bot/blob/assets/assets/Divider.png?raw=true" height="5" width="1000">
 </p>
