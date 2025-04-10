@@ -16,7 +16,7 @@
 ### Stats: 🌸
 <img align="right" src="https://github.com/user-attachments/assets/cf6c30bd-93da-4cb7-a45a-11c7b668d7d6" height="auto" width="200">
 
-<img src="https://github.com/user-attachments/assets/77346f9f-dd3e-49f0-ad40-c9e72a12a420">
+https://github-readme-stats.vercel.app/api?username=honiism
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e0b1245-e6c1-4ff5-86ae-b3c9c58a61ea" height="auto" width="500">
