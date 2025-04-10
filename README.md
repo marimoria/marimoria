@@ -1,28 +1,19 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42663162-a378-4664-8192-2e634669351f">
-  <img src="https://github.com/user-attachments/assets/77346f9f-dd3e-49f0-ad40-c9e72a12a420">
 </p>
 
 # 🌸 Mariyia
 [![Github](https://img.shields.io/badge/-honiism-black?style=flat&logo=Github&logoColor=white)](https://github.com/honiism)
-[![Instagram](https://img.shields.io/badge/-honiism-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/honiism)
+[![Instagram](https://img.shields.io/badge/-honiism-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/studyingwmary?igsh=MTY2ZndsbWQyazI1cg==)
 [![Gmail](https://img.shields.io/badge/-honiism@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honiism@gmail.com)
 
-<img align="right" src="https://i.pinimg.com/originals/a9/f3/96/a9f3962a657aee393b57692f37d8d347.gif" height="auto" width="200">
+<img align="right" src="" height="auto" width="200">
 
-**Honiism | Honey**
-> - 🌊 A student and a beginner programmer just trying to have fun! 🎀
-> - 🌸 Public projects can be found [here](https://github.com/honiism?tab=repositories).
+**Honiism | Maria**
+> - 🌊 A Computer Science student at IPB University just trying to have fun!
+> - 🌸 Public open-source projects can be found [here](https://github.com/honiism?tab=repositories).
 
-# 🌷 My current progress
-<img align="right" src="https://i.pinimg.com/originals/0e/bf/2d/0ebf2d51966d4b872c2d700167267143.gif" height="auto" width="200">
-
-### A) I'm looking forward to learning: 🥥
-> - 🌺 Website development.
-> - 🥛 Web apps development.
-> - 🎀 Game development.
-
-### C) Stats: 🌸
+### Stats: 🌸
 <img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
 
 <p align="center">
