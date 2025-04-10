@@ -1,12 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42663162-a378-4664-8192-2e634669351f">
+  <img src="https://github.com/user-attachments/assets/1a81967b-c8f0-4e7c-9711-ba3fa57b7d90">
 </p>
 
-<p align="center">
-  <img src="https://github.com/honiism/lemi-bot/blob/assets/assets/Divider.png?raw=true" height="5" width="1000">
-</p>
-
-# 🌸 Honiism <3
+# 🌸 Mariyia
 [![Github](https://img.shields.io/badge/-honiism-black?style=flat&logo=Github&logoColor=white)](https://github.com/honiism)
 [![Instagram](https://img.shields.io/badge/-honiism-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/honiism)
 [![Gmail](https://img.shields.io/badge/-honiism@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honiism@gmail.com)
