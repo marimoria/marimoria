@@ -14,7 +14,7 @@
 > - 🌸 Public open-source projects can be found [here](https://github.com/honiism?tab=repositories).
 
 ### Stats: 🌸
-<img src="https://github-readme-stats.vercel.app/api?username=honiism&count_private=true&show_icons=true&theme=material-palenight" width="400"/>
+<img src="https://github.com/user-attachments/assets/cf6c30bd-93da-4cb7-a45a-11c7b668d7d6" width="400"/>
 
 <p align="center">
   <img src="https://github.com/honiism/lemi-bot/blob/assets/assets/Divider.png?raw=true" height="5" width="1000">
