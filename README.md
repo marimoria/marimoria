@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42663162-a378-4664-8192-2e634669351f">
-  <img src="https://github.com/user-attachments/assets/1a81967b-c8f0-4e7c-9711-ba3fa57b7d90">
+  <img src="https://github.com/user-attachments/assets/77346f9f-dd3e-49f0-ad40-c9e72a12a420">
 </p>
 
 # 🌸 Mariyia
