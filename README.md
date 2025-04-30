@@ -3,7 +3,7 @@
 </p>
 
 # 🌸 Maria
-[![Github](https://img.shields.io/badge/-honiism-black?style=flat&logo=Github&logoColor=white)](https://github.com/honiism)
+[![Github](https://img.shields.io/badge/-marimoria-black?style=flat&logo=Github&logoColor=white)](https://github.com/marimoria)
 [![Instagram](https://img.shields.io/badge/-studyingwmary-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/studyingwmary?igsh=MTY2ZndsbWQyazI1cg==)
 [![Gmail](https://img.shields.io/badge/-honiism@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:honiism@gmail.com)
 <img align="right" src="https://github.com/user-attachments/assets/cf6c30bd-93da-4cb7-a45a-11c7b668d7d6" height="auto" width="300">
