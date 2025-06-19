@@ -19,20 +19,20 @@
 
 ## 📂 Featured Projects
 
-### 🧠 [Marimoria Portfolio Website](https://github.com/yourusername/marimoria)  
+### 🧠 [Marimoria Portfolio Website](https://github.com/marimoria/marimoria)  
   Personal interactive portfolio built using Vue 3, Vite, and GSAP 3.  
   🎨 Responsive, animated, and deployed on GitHub Pages.
 
-### ♻️ [Smart Arduino Waste Bin + Marsudia Website](https://github.com/yourusername/smart-bin)  
+### ♻️ [Smart Arduino Waste Bin + Marsudia Website](https://github.com/marimoria/smart-bin)  
   Arduino-powered automatic organic/inorganic waste separator (90% acc).  
   🛠️ Co-author |🌐 Web interface built with Arduino Cloud, co-authored scientific documentation.<br>
   🤝 Collaborated with [@bladeve](https://github.com/bladeve).
 
-### 🤖 [Lemi Discord Bot](https://github.com/yourusername/lemi-discord-bot)  
+### 🤖 [Lemi Discord Bot](https://github.com/marimoria/lemi-discord-bot)  
   Multi-purpose Discord bot coded in Java using JDA.  
   🎮 Includes custom Truth or Dare commands & an SQLite-based economy game.
 
-### 🗃️ [Toki-note Study App](https://github.com/yourusername/toki-note) *(in progress)*  
+### 🗃️ [Toki-note Study App](https://github.com/marimoria/toki-note) *(in progress)*  
   A cross-platform productivity app for students, designed with Vue 3, Quasar, and Capacitor.  
   🛠️ Co-founder | Focus: mobile-first UI/UX, college activities management features.<br>
   🤝 Collaborated with [@BukanRado](https://github.com/BukanRado).
