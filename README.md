@@ -30,7 +30,7 @@
 ### ♻️ [Smart Arduino Waste Bin + Marsudia Website](https://github.com/marimoria/Marsudia)  
   Arduino-powered automatic organic/inorganic waste separator (90% acc).  
   🛠️ Co-author |🌐 Web interface built with Arduino Cloud, co-authored scientific documentation.<br>
-  🤝 Collaborated with [@bladeve](https://github.com/bladeve).
+  🤝 Collaborated with [@lyneyy](https://github.com/lyneyy).
 
 ### 🤖 [Lemi Discord Bot](https://github.com/marimoria/lemi-bot)  
   Multi-purpose Discord bot coded in Java using JDA.  
