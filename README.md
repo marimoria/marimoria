@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maria!
 
-🎓 Computer Science student @ IPB University.<br>
+🎓 Computer Science (2025) student @ IPB University.<br>
 💡 Passionate about machine learning, creative coding, and full-stack development.<br>
 🔬 Exploring AI, Arduino, and cross-platform app development.<br>
 
@@ -15,9 +15,13 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-006699?style=flat&logo=postgresql&logoColor=white)
 
 ## 📂 Featured Projects
+
+### 🍱 [SEA-Catering Application](https://github.com/marimoria/SEA-catering)  
+  Subscription based food delivery app built using Vue 3, Vite, and GSAP 3.<br>
+  🔐 Supported with secure user authentication, data encryption, and a structurized database using Supabase
 
 ### 🧠 [Marimoria Portfolio Website](https://github.com/marimoria/marimoria-web)  
   Personal interactive portfolio built using Vue 3, Vite, and GSAP 3.  
