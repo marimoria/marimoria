@@ -39,7 +39,7 @@
 ### 🗃️ [Toki-note Study App](https://github.com/marimoria/Tokinote) *(in progress)*  
   A cross-platform productivity app for students, designed with Vue 3, Quasar, and Capacitor.  
   🛠️ Co-founder | Focus: mobile-first UI/UX, college activities management features.<br>
-  🤝 Collaborated with [@BukanRado](https://github.com/BukanRado).
+  🤝 Collaborated with [@brknzzz](https://github.com/brknzzz).
 
 ## 📫 Let's Connect
 [![Instagram](https://img.shields.io/badge/@marimoriaa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/marimoriaa)
